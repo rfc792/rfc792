@@ -4,5 +4,4 @@
 ## Projects
 * **[icmp-p2p](https://github.com/hajoon22/icmp-p2p)**: A peer discovery, peer exchange, and signed message propagation protocol over ICMP.
 * **[icmp-nat-traversal](https://github.com/hajoon22/icmp-nat-traversal)**: NAT traversal using ICMP Destination Unreachable packets.
-* **[spoof-nat-traversal](https://github.com/hajoon22/spoof-nat-traversal)**: NAT traversal using UDP packet spoofing.
 * **[lkm-outbound-filter](https://github.com/hajoon22/lkm-outbound-filter)**: It works on the Linux Kernel, using Netfilter to filter outbound traffic.
