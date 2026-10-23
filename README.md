@@ -4,7 +4,7 @@ I'm passionate about computer networking and network protocols.
 
 ## Security Research
 * 2026-02-24 – Reported 2 vulnerabilities to [ClassCard](https://classcard.net) (Predictable Password Reset Token, IDOR) – fixed (2026-03-11)
-
+  * **[classcard security reasearch note](https://github.com/rfc792/classcard-note)**
 ## Projects
 * **[icmp-p2p](https://github.com/rfc792/icmp-p2p)**: A peer discovery, peer exchange, and signed message propagation protocol over ICMP.
 * **[icmp-nat-traversal](https://github.com/rfc792/icmp-nat-traversal)**: NAT traversal using ICMP Destination Unreachable packets.
